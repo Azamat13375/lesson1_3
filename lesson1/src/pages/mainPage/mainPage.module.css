@@ -1,0 +1,21 @@
+.title {
+    display: block;
+    color: aqua;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+.name {
+    color: red;
+}
+.age {
+    color: brown;
+}
+.name2 {
+    color: aqua;
+}
+.age2 {
+    color: blueviolet;
+}
